@@ -2,6 +2,7 @@
 
 ## Java多线程
 - [多线程生成的原因（Java内存模型与i++操作解析）](https://github.com/pzxwhc/MineKnowContainer/issues/6)
+- [synchronized 关键字用法（修饰类，方法，静态方法，代码块）](https://github.com/pzxwhc/MineKnowContainer/issues/7)
 
 
 ## 设计模式
