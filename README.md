@@ -17,4 +17,4 @@
 
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
-
+- [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
