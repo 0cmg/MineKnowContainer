@@ -4,6 +4,7 @@
 - [Java 多线程：多线程生成的原因（Java内存模型与i++操作解析）](https://github.com/pzxwhc/MineKnowContainer/issues/6)
 - [Java 多线程：生产者消费者问题](https://github.com/pzxwhc/MineKnowContainer/issues/8)
 - [Java 多线程：synchronized 关键字用法（修饰类，方法，静态方法，代码块）](https://github.com/pzxwhc/MineKnowContainer/issues/7)
+- [Java 多线程：lock关键字（接口方法分析，ReentrantLock，ReadWriteLock）](https://github.com/pzxwhc/MineKnowContainer/issues/16)
 - [Java 多线程：condition关键字](https://github.com/pzxwhc/MineKnowContainer/issues/10)
 - [Java 多线程：volatile关键字](https://github.com/pzxwhc/MineKnowContainer/issues/11)
 - [Java 多线程：threadlocal关键字](https://github.com/pzxwhc/MineKnowContainer/issues/12)
