@@ -23,3 +23,7 @@
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
+
+## 其他
+我......只是想早餐加个鸡蛋....
+![image](/Users/yunxin/Desktop/1.jpg)
