@@ -11,6 +11,9 @@
 - [Java 多线程：CAS 与 AtomicInteger（乐观锁）](https://github.com/pzxwhc/MineKnowContainer/issues/17)
 - [Java 多线程：线程池实现原理](https://github.com/pzxwhc/MineKnowContainer/issues/9)
 
+##  Java集合
+- [Java 集合：Collection，List，ArrayList，Vector，LinkedList（实现方式，对比）](https://github.com/pzxwhc/MineKnowContainer/issues/18)
+
 ## 设计模式
 - [设计模式 -- Builder模式（多个构造器参数时可显著改善可读性）](https://github.com/pzxwhc/MineKnowContainer/issues/2)
 - [设计模式 -- 装饰器模式（为对象动态的添加功能）](https://github.com/pzxwhc/MineKnowContainer/issues/3)
