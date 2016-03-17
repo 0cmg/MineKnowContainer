@@ -25,7 +25,7 @@
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
 
 ## 其他
-我我......只是想早餐加个蛋....
+我我......只是想早餐加个蛋....再再买个豆浆...... (*^__^*)
 
-![image](https://github.com/pzxwhc/MineKnowContainer/blob/master/pic/weixin.png?raw=true)
-![image](https://github.com/pzxwhc/MineKnowContainer/blob/master/pic/zhifubao.jpg?raw=true)
+![image](http://7xrzlm.com1.z0.glb.clouddn.com/weixin.png?imageView/2/w/200/h/200)  && 
+![image](http://7xrzlm.com1.z0.glb.clouddn.com/zhifubao.jpg?imageView/2/w/200/h/200)
