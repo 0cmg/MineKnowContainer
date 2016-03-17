@@ -25,5 +25,7 @@
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
 
 ## 其他
-我......只是想早餐加个鸡蛋....
-![image](/Users/yunxin/Desktop/1.jpg)
+我我......只是想早餐加个蛋....
+
+![image](https://github.com/pzxwhc/MineKnowContainer/blob/master/pic/weixin.png?raw=true)
+![image](https://github.com/pzxwhc/MineKnowContainer/blob/master/pic/zhifubao.jpg?raw=true)
