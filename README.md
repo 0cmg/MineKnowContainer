@@ -13,6 +13,7 @@
 
 ##  Java集合
 - [Java 集合：Collection，List，ArrayList，Vector，LinkedList（实现方式，对比）](https://github.com/pzxwhc/MineKnowContainer/issues/18)
+- [Java 集合：HashMap（put方法的实现 与 哈希冲突）]*(https://github.com/pzxwhc/MineKnowContainer/issues/19)
 
 ## 设计模式
 - [设计模式 -- Builder模式（多个构造器参数时可显著改善可读性）](https://github.com/pzxwhc/MineKnowContainer/issues/2)
@@ -25,7 +26,7 @@
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
 
 ## 其他
-我我......只是想早餐加个蛋....再再买个豆浆...... (*^__^*)
+我我......只是想早餐加个蛋，喝碗豆浆，吃个油条，再来一笼小笼包...... 我...能再点一个蒸饺么 (*^__^*)
 
 ![image](http://7xrzlm.com1.z0.glb.clouddn.com/weixin.png?imageView/2/w/200/h/200)  && 
 ![image](http://7xrzlm.com1.z0.glb.clouddn.com/zhifubao.jpg?imageView/2/w/200/h/200)
