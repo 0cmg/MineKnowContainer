@@ -13,7 +13,7 @@
 
 ##  Java集合
 - [Java 集合：Collection，List，ArrayList，Vector，LinkedList（实现方式，对比）](https://github.com/pzxwhc/MineKnowContainer/issues/18)
-- [Java 集合：HashMap（put方法的实现 与 哈希冲突）]*(https://github.com/pzxwhc/MineKnowContainer/issues/19)
+- [Java 集合：HashMap（put方法的实现 与 哈希冲突）](https://github.com/pzxwhc/MineKnowContainer/issues/19)
 
 ## 设计模式
 - [设计模式 -- Builder模式（多个构造器参数时可显著改善可读性）](https://github.com/pzxwhc/MineKnowContainer/issues/2)
