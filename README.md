@@ -8,6 +8,7 @@
 - [Java 多线程：condition关键字](https://github.com/pzxwhc/MineKnowContainer/issues/10)
 - [Java 多线程：volatile关键字](https://github.com/pzxwhc/MineKnowContainer/issues/11)
 - [Java 多线程：threadlocal关键字](https://github.com/pzxwhc/MineKnowContainer/issues/12)
+- [Java 多线程：InheritableThreadLocal 实现原理](https://github.com/pzxwhc/MineKnowContainer/issues/20)
 - [Java 多线程：CAS 与 AtomicInteger（乐观锁）](https://github.com/pzxwhc/MineKnowContainer/issues/17)
 - [Java 多线程：线程池实现原理](https://github.com/pzxwhc/MineKnowContainer/issues/9)
 
