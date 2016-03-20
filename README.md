@@ -19,6 +19,7 @@
 
 ## Java IO
 - [Java IO：操作系统的IO处理过程以及5种网络IO模型](https://github.com/pzxwhc/MineKnowContainer/issues/22)
+-[Java IO：常见Java IO流介绍（ByteArrayInputStream，ObjectInputStream，BufferedInputStream）](https://github.com/pzxwhc/MineKnowContainer/issues/23)
 
 ## 设计模式
 - [设计模式 -- Builder模式（多个构造器参数时可显著改善可读性）](https://github.com/pzxwhc/MineKnowContainer/issues/2)
