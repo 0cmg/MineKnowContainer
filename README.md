@@ -1,5 +1,8 @@
 # MineKnowContainer
 
+##Java JVM
+- [Java JVM：内存结构和相关参数含义](https://github.com/pzxwhc/MineKnowContainer/issues/24)
+
 ## Java多线程
 - [Java 多线程：多线程生成的原因（Java内存模型与i++操作解析）](https://github.com/pzxwhc/MineKnowContainer/issues/6)
 - [Java 多线程：生产者消费者问题](https://github.com/pzxwhc/MineKnowContainer/issues/8)
