@@ -3,6 +3,7 @@
 ##Java JVM
 - [Java JVM：内存结构和相关参数含义](https://github.com/pzxwhc/MineKnowContainer/issues/24)
 - [Java JVM：内存溢出（栈溢出，堆溢出，持久代溢出以及 unable to create native thread）](https://github.com/pzxwhc/MineKnowContainer/issues/25)
+- [Java JVM：垃圾回收（GC 在什么时候，对什么东西，做了什么事情）](https://github.com/pzxwhc/MineKnowContainer/issues/26)
 
 ## Java多线程
 - [Java 多线程：多线程生成的原因（Java内存模型与i++操作解析）](https://github.com/pzxwhc/MineKnowContainer/issues/6)
