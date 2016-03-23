@@ -35,7 +35,8 @@
 - [设计模式 -- 观察者模式（有利于代码解耦）](https://github.com/pzxwhc/MineKnowContainer/issues/5)
 
 ## Spring
-- [Spring：AOP（JDK动态代理与CGLI代理）](https://github.com/pzxwhc/MineKnowContainer/issues/28)
+- [Spring：AOP（JDK动态代理与CGLIB代理）](https://github.com/pzxwhc/MineKnowContainer/issues/28)
+- [Spring：异常统一处理的三种方式与Rest接口异常的处理](https://github.com/pzxwhc/MineKnowContainer/issues/29)
 
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
