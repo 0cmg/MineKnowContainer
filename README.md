@@ -36,6 +36,7 @@
 
 ## Spring
 - [Spring：AOP（JDK动态代理与CGLIB代理）](https://github.com/pzxwhc/MineKnowContainer/issues/28)
+- [Spring：DI原理（包括如何创建实体和具体注入）](https://github.com/pzxwhc/MineKnowContainer/issues/30)
 - [Spring：异常统一处理的三种方式与Rest接口异常的处理](https://github.com/pzxwhc/MineKnowContainer/issues/29)
 
 ## 工具
