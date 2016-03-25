@@ -42,6 +42,7 @@
 
 ## Spring MVC
 - [SpringMVC：Servlet 体系结构与 ServletContext，ServletConfig](https://github.com/pzxwhc/MineKnowContainer/issues/32)
+- [SpringMVC：FrameworkServlet（主要用于初始化WebApplicationContext）](https://github.com/pzxwhc/MineKnowContainer/issues/34)
 
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
