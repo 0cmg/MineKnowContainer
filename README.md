@@ -40,6 +40,9 @@
 - [Spring：异常统一处理的三种方式与Rest接口异常的处理](https://github.com/pzxwhc/MineKnowContainer/issues/29)
 - [Spring：事务的传播属性，隔离级别以及脏读，幻读，不可重复读概念](https://github.com/pzxwhc/MineKnowContainer/issues/31)
 
+## Spring MVC
+- [SpringMVC：Servlet 体系结构与 ServletContext，ServletConfig](https://github.com/pzxwhc/MineKnowContainer/issues/32)
+
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
