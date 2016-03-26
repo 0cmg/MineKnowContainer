@@ -44,6 +44,7 @@
 - [SpringMVC：Servlet 体系结构与 ServletContext，ServletConfig](https://github.com/pzxwhc/MineKnowContainer/issues/32)
 - [SpringMVC：FrameworkServlet（主要用于初始化WebApplicationContext）](https://github.com/pzxwhc/MineKnowContainer/issues/34)
 - [SpringMVC：DispatcherServlet（流程）](https://github.com/pzxwhc/MineKnowContainer/issues/35)
+- [SpringMVC：前后端传值（包括@PathVarible，@PathParam等）](https://github.com/pzxwhc/MineKnowContainer/issues/36)
 
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
