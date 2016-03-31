@@ -51,6 +51,9 @@
 ## Quartz
 - [Quartz：Spring + Quartz 支持多机任务调度（实现和原理流程）](https://github.com/pzxwhc/MineKnowContainer/issues/37)
 
+## RabbitMQ
+- [RabbitMQ：Spring 集成 RabbitMQ 与其概念，消息持久化，ACK机制等](https://github.com/pzxwhc/MineKnowContainer/issues/38)
+
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
