@@ -56,6 +56,7 @@
 
 ## NodeJs
 - [NodeJs：require，exports，module 概念](https://github.com/pzxwhc/MineKnowContainer/issues/39)
+- [NodeJs：async 模块（同时发送多个请求）](https://github.com/pzxwhc/MineKnowContainer/issues/40)
 
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
