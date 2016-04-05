@@ -54,6 +54,9 @@
 ## RabbitMQ
 - [RabbitMQ：Spring 集成 RabbitMQ 与其概念，消息持久化，ACK机制等](https://github.com/pzxwhc/MineKnowContainer/issues/38)
 
+## NodeJs
+- [NodeJs：require，exports，module 概念](https://github.com/pzxwhc/MineKnowContainer/issues/39)
+
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
