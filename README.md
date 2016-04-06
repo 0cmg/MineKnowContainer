@@ -53,6 +53,7 @@
 
 ## RabbitMQ
 - [RabbitMQ：Spring 集成 RabbitMQ 与其概念，消息持久化，ACK机制等](https://github.com/pzxwhc/MineKnowContainer/issues/38)
+- [RabbitMQ：4种交换机（Direct，Topic，Fanout，Headers）](https://github.com/pzxwhc/MineKnowContainer/issues/42)
 
 ## NodeJs
 - [NodeJs：require，exports，module 概念](https://github.com/pzxwhc/MineKnowContainer/issues/39)
