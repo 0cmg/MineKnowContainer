@@ -36,6 +36,9 @@
 - [设计模式 -- 策略模式（对象的某个行为，在不同的场景中，有不同的实现算法）](https://github.com/pzxwhc/MineKnowContainer/issues/4)
 - [设计模式 -- 观察者模式（有利于代码解耦）](https://github.com/pzxwhc/MineKnowContainer/issues/5)
 
+## 排序算法
+- [排序算法：选择排序](https://github.com/pzxwhc/MineKnowContainer/issues/43)
+
 ## Spring
 - [Spring：AOP（JDK动态代理与CGLIB代理）](https://github.com/pzxwhc/MineKnowContainer/issues/28)
 - [Spring：DI原理（包括如何创建实体和具体注入）](https://github.com/pzxwhc/MineKnowContainer/issues/30)
