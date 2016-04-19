@@ -19,8 +19,7 @@ public class Producer {
 
     @RequestMapping(value = "/test/{abc}",method = RequestMethod.GET)
     public String test(@PathVariable(value = "abc") String abc){
-
-        rabbitTemplate.convertAndSend("spring-boot", abc + " from RabbitMQ!");
+        rabbitTemplate.convertAndSend("testDirectExchange","key1", abc + " from RabbitMQ!");
         return  "abc";
     }
 }
