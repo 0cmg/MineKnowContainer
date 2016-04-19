@@ -38,6 +38,7 @@
 
 ## 排序算法
 - [排序算法：选择排序](https://github.com/pzxwhc/MineKnowContainer/issues/43)
+- [排序算法：冒泡排序](https://github.com/pzxwhc/MineKnowContainer/issues/44)
 
 ## Spring
 - [Spring：AOP（JDK动态代理与CGLIB代理）](https://github.com/pzxwhc/MineKnowContainer/issues/28)
@@ -70,7 +71,7 @@
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
 
 ## 其他
-我我......只是想早餐加个蛋，喝碗豆浆，吃个油条，再来一笼小笼包...... 我...能再点一个蒸饺么 (*^__^*)
+如果您觉得对您有用，so.... 嘿嘿嘿 (*^__^*)
 
 ![image](http://7xrzlm.com1.z0.glb.clouddn.com/weixin.png?imageView/2/w/200/h/200)  && 
 ![image](http://7xrzlm.com1.z0.glb.clouddn.com/zhifubao.jpg?imageView/2/w/200/h/200)
