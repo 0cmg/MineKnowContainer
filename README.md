@@ -39,6 +39,7 @@
 ## 排序算法
 - [排序算法：选择排序](https://github.com/pzxwhc/MineKnowContainer/issues/43)
 - [排序算法：冒泡排序](https://github.com/pzxwhc/MineKnowContainer/issues/44)
+- [排序算法：插入排序](https://github.com/pzxwhc/MineKnowContainer/issues/45)
 
 ## Spring
 - [Spring：AOP（JDK动态代理与CGLIB代理）](https://github.com/pzxwhc/MineKnowContainer/issues/28)
