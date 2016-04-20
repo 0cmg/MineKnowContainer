@@ -58,8 +58,9 @@
 - [Quartz：Spring + Quartz 支持多机任务调度（实现和原理流程）](https://github.com/pzxwhc/MineKnowContainer/issues/37)
 
 ## RabbitMQ
-- [RabbitMQ：Spring 集成 RabbitMQ 与其概念，消息持久化，ACK机制等](https://github.com/pzxwhc/MineKnowContainer/issues/38)
-- [RabbitMQ：4种交换机（Direct，Topic，Fanout，Headers）](https://github.com/pzxwhc/MineKnowContainer/issues/42)
+- [RabbitMQ：作用，模型，重要概念](https://github.com/pzxwhc/MineKnowContainer/issues/38)
+- [RabbitMQ：常用三种交换机（Direct，Topic，Fanout）](https://github.com/pzxwhc/MineKnowContainer/issues/42)
+- [RabbitMQ：Hello World Demo（基于 spring，非原生模式）](https://github.com/pzxwhc/MineKnowContainer/issues/47)
 
 ## NodeJs
 - [NodeJs：require，exports，module 概念](https://github.com/pzxwhc/MineKnowContainer/issues/39)
