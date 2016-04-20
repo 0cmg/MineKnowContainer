@@ -61,6 +61,8 @@
 - [RabbitMQ：作用，模型，重要概念](https://github.com/pzxwhc/MineKnowContainer/issues/38)
 - [RabbitMQ：常用三种交换机（Direct，Topic，Fanout）](https://github.com/pzxwhc/MineKnowContainer/issues/42)
 - [RabbitMQ：Hello World Demo（基于 spring，非原生模式）](https://github.com/pzxwhc/MineKnowContainer/issues/47)
+- [RabbitMQ：Spring对RabbitMQ的注解支持（@EnableRabbit，@RabbitListener，@RabbitHandler）](https://github.com/pzxwhc/MineKnowContainer/issues/48)
+
 
 ## NodeJs
 - [NodeJs：require，exports，module 概念](https://github.com/pzxwhc/MineKnowContainer/issues/39)
