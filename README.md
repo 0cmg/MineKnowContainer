@@ -63,6 +63,7 @@
 - [RabbitMQ：Hello World Demo（基于 spring，非原生模式）](https://github.com/pzxwhc/MineKnowContainer/issues/47)
 - [RabbitMQ：Spring对RabbitMQ的注解支持（@EnableRabbit，@RabbitListener，@RabbitHandler）](https://github.com/pzxwhc/MineKnowContainer/issues/48)
 - [RabbitMQ：Publisher的消息确认机制](https://github.com/pzxwhc/MineKnowContainer/issues/49)
+- [RabbitMQ：Consumer的ack机制 和 死信（Dead Letter）](https://github.com/pzxwhc/MineKnowContainer/issues/50)
 
 ## NodeJs
 - [NodeJs：require，exports，module 概念](https://github.com/pzxwhc/MineKnowContainer/issues/39)
