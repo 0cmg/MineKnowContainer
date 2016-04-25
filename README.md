@@ -70,6 +70,9 @@
 - [NodeJs：require，exports，module 概念](https://github.com/pzxwhc/MineKnowContainer/issues/39)
 - [NodeJs：async 模块（同时发送多个请求）](https://github.com/pzxwhc/MineKnowContainer/issues/40)
 
+## Docker
+- [Docker：4种网络模式以及bridge模式下容器的通信（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/52)
+
 ## OAuth
 - [OAuth2：基本概念，流程以及4种授权模式](https://github.com/pzxwhc/MineKnowContainer/issues/41)
 
