@@ -69,6 +69,7 @@
 ## NodeJs
 - [NodeJs：require，exports，module 概念](https://github.com/pzxwhc/MineKnowContainer/issues/39)
 - [NodeJs：async 模块（同时发送多个请求）](https://github.com/pzxwhc/MineKnowContainer/issues/40)
+- [NodeJs：使用 winston 作为日志记录](https://github.com/pzxwhc/MineKnowContainer/issues/53)
 
 ## Docker
 - [Docker：4种网络模式以及bridge模式下容器的通信（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/52)
