@@ -30,6 +30,9 @@
 - [Java IO：操作系统的IO处理过程以及5种网络IO模型](https://github.com/pzxwhc/MineKnowContainer/issues/22)
 - [Java IO：常见Java IO流介绍（ByteArrayInputStream，ObjectInputStream，BufferedInputStream）](https://github.com/pzxwhc/MineKnowContainer/issues/23)
 
+#### Java 其他
+- [Java 其他：异常体系结构与 try-catch-finally](https://github.com/pzxwhc/MineKnowContainer/issues/56)
+
 ## 设计模式
 - [设计模式 -- Builder模式（多个构造器参数时可显著改善可读性）](https://github.com/pzxwhc/MineKnowContainer/issues/2)
 - [设计模式 -- 装饰器模式（为对象动态的添加功能）](https://github.com/pzxwhc/MineKnowContainer/issues/3)
