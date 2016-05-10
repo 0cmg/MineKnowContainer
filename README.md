@@ -13,7 +13,7 @@
 - [Java 多线程：多线程生成的原因（Java内存模型与i++操作解析）](https://github.com/pzxwhc/MineKnowContainer/issues/6)
 - [Java 多线程：生产者消费者问题](https://github.com/pzxwhc/MineKnowContainer/issues/8)
 - [Java 多线程：Synchronized 关键字用法（修饰类，方法，静态方法，代码块）](https://github.com/pzxwhc/MineKnowContainer/issues/7)
-- [Java 多线程：Lock关键字（接口方法分析，ReentrantLock，ReadWriteLock）](https://github.com/pzxwhc/MineKnowContainer/issues/16)
+- [Java 多线程：Lock接口（接口方法分析，ReentrantLock，ReadWriteLock）](https://github.com/pzxwhc/MineKnowContainer/issues/16)
 - [Java 多线程：Condition关键字](https://github.com/pzxwhc/MineKnowContainer/issues/10)
 - [Java 多线程：Volatile关键字](https://github.com/pzxwhc/MineKnowContainer/issues/11)
 - [Java 多线程：Threadlocal关键字](https://github.com/pzxwhc/MineKnowContainer/issues/12)
@@ -76,6 +76,7 @@
 
 ## OAuth
 - [OAuth2：基本概念，流程以及4种授权模式](https://github.com/pzxwhc/MineKnowContainer/issues/41)
+- [OAuth2：Authorization Code 模式的实现（Java版本）](https://github.com/pzxwhc/MineKnowContainer/issues/54)
 
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
