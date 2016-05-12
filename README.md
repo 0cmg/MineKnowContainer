@@ -57,6 +57,9 @@
 - [SpringMVC：DispatcherServlet（流程）](https://github.com/pzxwhc/MineKnowContainer/issues/35)
 - [SpringMVC：前后端传值（包括@PathVarible，@PathParam等）](https://github.com/pzxwhc/MineKnowContainer/issues/36)
 
+#### Spring Security
+- [Spring Security：相关类以及 Authentication 认证流程（基于SpringBoot）](https://github.com/pzxwhc/MineKnowContainer/issues/58)
+
 #### Quartz
 - [Quartz：Spring + Quartz 支持多机任务调度（实现和原理流程）](https://github.com/pzxwhc/MineKnowContainer/issues/37)
 
