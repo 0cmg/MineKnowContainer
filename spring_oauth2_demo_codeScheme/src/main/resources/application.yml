@@ -14,10 +14,3 @@ spring:
             hibernate.globally_quoted_identifiers: true
             hibernate.show_sql: false
             hibernate.format_sql: true
-
-security:
-    oauth2:
-        client:
-            client-id: whc_client_id
-            client-secret: whc_client_secret
-
