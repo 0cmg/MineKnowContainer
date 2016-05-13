@@ -70,14 +70,4 @@ public class OAuth2Config {
 
         return baseClientDetails;
     }
-
-    //目的是为了设置 过期时间
-    @Bean
-    public DefaultTokenServices createDefaultTokenServices(TokenStore tokenStore){
-        DefaultTokenServices defaultTokenServices = new DefaultTokenServices();
-        defaultTokenServices.setAccessTokenValiditySeconds(24 * 60 * 60);
-        defaultTokenServices.setTokenStore(tokenStore);
-        return defaultTokenServices;
-    }
-
 }

@@ -59,6 +59,7 @@
 
 #### Spring Security
 - [Spring Security：相关类以及 Authentication 认证流程（基于SpringBoot）](https://github.com/pzxwhc/MineKnowContainer/issues/58)
+- [Spring Security：结合 Spring-OAuth，支持 Mysql 数据库（基于SpringBoot）](https://github.com/pzxwhc/MineKnowContainer/issues/59)
 
 #### Quartz
 - [Quartz：Spring + Quartz 支持多机任务调度（实现和原理流程）](https://github.com/pzxwhc/MineKnowContainer/issues/37)
@@ -82,6 +83,7 @@
 #### OAuth
 - [OAuth2：基本概念，流程以及4种授权模式](https://github.com/pzxwhc/MineKnowContainer/issues/41)
 - [OAuth2：Authorization Code 模式的实现（Java版本）](https://github.com/pzxwhc/MineKnowContainer/issues/54)
+- [OAuth2：使用Spring-OAuth，基于Spring-Security，SpringBoot，支持 Mysql 数据库](https://github.com/pzxwhc/MineKnowContainer/issues/59)
 
 #### Web
 - [Web：初步理解 Tomcat](https://github.com/pzxwhc/MineKnowContainer/issues/55)
