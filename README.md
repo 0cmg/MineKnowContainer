@@ -46,6 +46,8 @@
 - [排序算法：希尔排序](https://github.com/pzxwhc/MineKnowContainer/issues/46)
 - [排序算法：快速排序](https://github.com/pzxwhc/MineKnowContainer/issues/51)
 
+## HTTP
+- [HTTP：Referer](https://github.com/pzxwhc/MineKnowContainer/issues/60)
 
 ## 框架技术
 #### Spring 与 SpringMVC
