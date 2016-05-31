@@ -54,6 +54,7 @@
 
 ## 安全
 - [安全：CSRF 攻击（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/64)
+- [安全：XSS 攻击（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/65)
 
 ## 框架技术
 #### Spring 与 SpringMVC
