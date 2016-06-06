@@ -53,8 +53,8 @@
 - [HTTP：Referer](https://github.com/pzxwhc/MineKnowContainer/issues/60)
 
 ## 安全
-- [安全：CSRF 攻击（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/64)
-- [安全：XSS 攻击（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/65)
+- [安全：CSRF 攻击](https://github.com/pzxwhc/MineKnowContainer/issues/64)
+- [安全：XSS 攻击](https://github.com/pzxwhc/MineKnowContainer/issues/65)
 - [安全：公钥，私钥 以及部署 HTTPS](https://github.com/pzxwhc/MineKnowContainer/issues/66)
 
 ## 框架技术
@@ -91,12 +91,13 @@
 - [Nginx：对静态资源的处理和直接访问 node 差不多？](https://github.com/pzxwhc/MineKnowContainer/issues/67)
 
 #### Docker
-- [Docker：4种网络模式以及bridge模式下容器的通信（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/52)
+- [Docker：4种网络模式以及bridge模式下容器的通信](https://github.com/pzxwhc/MineKnowContainer/issues/52)
 
 #### OAuth
-- [OAuth2：基本概念，流程以及4种授权模式](https://github.com/pzxwhc/MineKnowContainer/issues/41)
-- [OAuth2：Authorization Code 模式的实现（Java版本）](https://github.com/pzxwhc/MineKnowContainer/issues/54)
+- [OAuth2：四种基本授权模式](https://github.com/pzxwhc/MineKnowContainer/issues/41)
+- [OAuth2：授权码模式 Java 实现版本](https://github.com/pzxwhc/MineKnowContainer/issues/54)
 - [OAuth2：使用Spring-OAuth，基于Spring-Security，SpringBoot，支持 Mysql 数据库](https://github.com/pzxwhc/MineKnowContainer/issues/59)
+- [OAuth2：忽略 state 参数引发的 csrf 漏洞](https://github.com/pzxwhc/MineKnowContainer/issues/68)
 
 #### Web
 - [Web：初步理解 Tomcat](https://github.com/pzxwhc/MineKnowContainer/issues/55)
