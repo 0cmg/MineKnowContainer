@@ -49,6 +49,9 @@
 - [排序算法：希尔排序](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=f603a8e6-8682-47bc-9b74-eca464fc2b01)
 - [排序算法：快速排序](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=d3da426b-8f60-4bb8-9cc2-126f80235f12)
 
+## Mysql
+- [Mysql：行级锁](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=a427f309-2b23-4ca1-a7a9-06a472bf993c)
+
 ## HTTP
 - [HTTP：Referer](https://github.com/pzxwhc/MineKnowContainer/issues/60)
 
@@ -73,6 +76,8 @@
 
 #### Quartz
 - [Quartz：Spring + Quartz 支持多机任务调度（实现和原理流程）](https://www.wuhuachuan.com/visitor/learning/tag/find-articles-by-tagid?id=5e825a01-9bec-42bb-b43f-80676a0e57b9)
+- [Quartz：使用行级锁实现集群](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=e759e2cc-2385-4096-8813-92e5d80a1462)
+- [Quartz：错误处理与监控](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=fbed7fd5-69dc-4a33-b4ed-230a6a51e50d)
 
 #### RabbitMQ
 - [RabbitMQ：作用，模型，重要概念](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=ed059bf6-92c1-4df1-90be-0365a09e712d)
