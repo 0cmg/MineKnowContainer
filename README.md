@@ -41,6 +41,8 @@
 - [设计模式 -- 装饰器模式（为对象动态的添加功能）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=2dc3a055-a6d0-4ed4-a815-7dac9b3a3d7b)
 - [设计模式 -- 策略模式（对象的某个行为，在不同的场景中，有不同的实现算法）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=fa5896a7-3690-4c8b-ab0d-21a7da3c6c6a)
 - [设计模式 -- 观察者模式（有利于代码解耦）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=0327a788-0597-4609-8e45-ff8925536f27)
+- [设计模式 -- 工厂模式（简单工厂模式，工厂方法模式，抽象工厂模式）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=7d47bd91-8cbe-4b95-a98e-b0c1118794f8)
+- [设计模式 -- 单例模式（饿汉，懒汉模式与多线程下的使用）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=f5c93b51-7ae5-4d53-aadd-4700ac562ed8)
 
 ## 排序算法
 - [排序算法：选择排序](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=5215e957-52d9-435e-9dec-bc3d975724c0)
