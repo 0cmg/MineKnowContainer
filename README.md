@@ -1,6 +1,6 @@
 # MineKnowContainer
 
-个人知识小仓库
+个人博客：[https://www.wuhuachuan.com/](https://www.wuhuachuan.com/)，还望多多支持，^_^
 
 ## Java
 #### Java JVM
@@ -25,9 +25,12 @@
 - [Java 多线程：线程池实现原理](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=4a206677-c3c5-47a6-9144-0c28d95d9123)
 
 ####  Java集合
+- [Java 集合总结（Collection系列与Map系列）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=5e047716-e3be-488b-995f-96bd357ba40b)
 - [Java 集合：Collection，List，ArrayList，Vector，LinkedList（实现方式，对比）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=e2d86b1a-99fd-42c8-bf47-7de763aafd75)
 - [Java 集合：HashMap（put方法的实现 与 哈希冲突）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=96c1f402-bba7-4441-8028-a62e0d11f5d6)
 - [Java 集合：HashSet，HashTable，以及 ConcurrentHashMap 概念](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=a8c94c5e-7844-48da-9683-4d5f33419ad4)
+- [Java 集合：LinkedHashMap（特点，Demo以及实现原理）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=584a9f9a-8a51-4276-a0fb-ed11a774b056)
+- [Java 集合：TreeMap（特点，Demo以及实现原理）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=b54493e7-b284-4cf1-bec0-db2198c9d8e6)
 
 #### Java IO
 - [Java IO：操作系统的IO处理过程以及5种网络IO模型](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=9f193d4e-2897-422b-a341-8a400fa0198c)
