@@ -2,27 +2,29 @@
 
 个人博客：[https://www.wuhuachuan.com/](https://www.wuhuachuan.com/)，还望多多支持，^_^
 
+Ps：有错误或者建议麻烦评论或者提个issue，让博主有改正的机会，谢谢大家了（鞠躬ing）!
+
 ## Java
 #### Java JVM
 - [Java JVM：总结](https://github.com/pzxwhc/MineKnowContainer/issues/63)
-- [Java JVM：内存结构和相关参数含义](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=d585c5db-5ed4-486b-970f-4eda3d585651)
-- [Java JVM：对象是如何创建以及定位](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=05cfebee-9bae-4dde-9c3d-f34c3bbaa613)
-- [Java JVM：垃圾回收（GC 在什么时候，对什么东西，做了什么事情）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=db53c14b-06f5-487f-94ed-9a5a7d296e45)
-- [Java JVM：垃圾收集器（转载）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=d85b8fb5-cefe-47cc-9e2d-193009d9e039)
-- [Java JVM：内存溢出（栈溢出，堆溢出，持久代溢出以及 unable to create native thread）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=f3253780-2b7a-4f89-b675-2784bfee1055)
-- [Java JVM：编译加载机制与自定义类加载器](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=b3adf837-ab93-4cec-8895-63a8904b0596)
+- [Java JVM：内存结构和相关参数含义](https://github.com/pzxwhc/MineKnowContainer/issues/24)
+- [Java JVM：对象是如何创建以及定位](https://github.com/pzxwhc/MineKnowContainer/issues/62)
+- [Java JVM：垃圾回收（GC 在什么时候，对什么东西，做了什么事情）](https://github.com/pzxwhc/MineKnowContainer/issues/26)
+- [Java JVM：垃圾收集器（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/61)
+- [Java JVM：内存溢出（栈溢出，堆溢出，持久代溢出以及 unable to create native thread）](https://github.com/pzxwhc/MineKnowContainer/issues/25)
+- [Java JVM：编译加载机制与自定义类加载器](https://github.com/pzxwhc/MineKnowContainer/issues/27)
 
 #### Java多线程
-- [Java 多线程：多线程生成的原因（Java内存模型与i++操作解析）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=ce2122dd-e21d-4514-abb7-70760a495be9)
-- [Java 多线程：生产者消费者问题](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=e8998bfd-bded-448c-b804-edd5750fe565)
-- [Java 多线程：Synchronized 关键字用法（修饰类，方法，静态方法，代码块）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=44fda75b-7513-4127-a1c6-0a886c7df772)
-- [Java 多线程：Lock接口（接口方法分析，ReentrantLock，ReadWriteLock）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=aecfb9c6-6f2e-4915-8ab9-3513ddc31b8c)
-- [Java 多线程：Condition关键字](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=3ce1ffc6-7786-44cc-919a-31857d701e28)
-- [Java 多线程：Volatile关键字](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=d830e542-4cff-45b4-be66-e4b854d765d1)
-- [Java 多线程：Threadlocal关键字](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=82f41635-a18b-49e8-b818-4b53c4d21741)
-- [Java 多线程：InheritableThreadLocal 实现原理](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=9a9dd1d8-bb5d-41f9-89da-5a0f5c264940)
-- [Java 多线程：CAS 与 AtomicInteger（乐观锁）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=913474ec-8b56-4bfd-808f-3ff667e5a634)
-- [Java 多线程：线程池实现原理](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=4a206677-c3c5-47a6-9144-0c28d95d9123)
+- [Java 多线程：多线程生成的原因（Java内存模型与i++操作解析）](https://github.com/pzxwhc/MineKnowContainer/issues/6)
+- [Java 多线程：生产者消费者问题](https://github.com/pzxwhc/MineKnowContainer/issues/8)
+- [Java 多线程：Synchronized 关键字用法（修饰类，方法，静态方法，代码块）](https://github.com/pzxwhc/MineKnowContainer/issues/7)
+- [Java 多线程：Lock接口（接口方法分析，ReentrantLock，ReadWriteLock）](https://github.com/pzxwhc/MineKnowContainer/issues/16)
+- [Java 多线程：Condition关键字](https://github.com/pzxwhc/MineKnowContainer/issues/10)
+- [Java 多线程：Volatile关键字](https://github.com/pzxwhc/MineKnowContainer/issues/11)
+- [Java 多线程：Threadlocal关键字](https://github.com/pzxwhc/MineKnowContainer/issues/12)
+- [Java 多线程：InheritableThreadLocal 实现原理](https://github.com/pzxwhc/MineKnowContainer/issues/20)
+- [Java 多线程：CAS 与 AtomicInteger（乐观锁）](https://github.com/pzxwhc/MineKnowContainer/issues/17)
+- [Java 多线程：线程池实现原理](https://github.com/pzxwhc/MineKnowContainer/issues/9)
 
 ####  Java集合
 - [Java 集合总结（Collection系列与Map系列）](https://www.wuhuachuan.com/visitor/learning/article/getArticleDetail?id=5e047716-e3be-488b-995f-96bd357ba40b)
