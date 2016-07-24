@@ -35,8 +35,8 @@ Ps：有错误或者建议麻烦评论或者提个issue，让博主有改正的�
 - [Java 集合：Collection，List，ArrayList，Vector，LinkedList（实现方式，对比）](https://github.com/pzxwhc/MineKnowContainer/issues/18)
 - [Java 集合：HashMap（put方法的实现 与 哈希冲突）](https://github.com/pzxwhc/MineKnowContainer/issues/19)
 - [Java 集合：HashSet，HashTable，以及 ConcurrentHashMap 概念](https://github.com/pzxwhc/MineKnowContainer/issues/21)
-- [Java 集合：LinkedHashMap（特点，Demo以及实现原理）](https://github.com/pzxwhc/MineKnowContainer/issues/76)
-- [Java 集合：TreeMap（特点，Demo以及实现原理）](https://github.com/pzxwhc/MineKnowContainer/issues/77)
+- [Java 集合：LinkedHashMap工作原理及实现（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/76)
+- [Java 集合：TreeMap工作原理及实现（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/77)
 
 #### Java IO
 - [Java IO：操作系统的IO处理过程以及5种网络IO模型](https://github.com/pzxwhc/MineKnowContainer/issues/22)
