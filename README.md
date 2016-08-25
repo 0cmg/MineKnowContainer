@@ -1,12 +1,8 @@
 # MineKnowContainer
 
-- 个人博客：[https://www.wuhuachuan.com/](https://www.wuhuachuan.com/)
-- 知乎：[https://www.zhihu.com/people/wuhuachuan](https://www.zhihu.com/people/wuhuachuan)
-- 新浪微博：[http://weibo.com/1796766555/profile?topnav=1&wvr=6&is_all=1](http://weibo.com/1796766555/profile?topnav=1&wvr=6&is_all=1)
+以上文件夹说明（在慢慢更新中...）:
 
-还望多多支持，^_^，嘿嘿嘿嘿，嘿嘿嘿嘿😄^_^
-
-Ps：有错误或者建议麻烦评论或者提个issue，让博主有改正的机会，谢谢大家了（鞠躬ing）!
+- Stack 文件夹： 个人对栈的一个实现。
 
 ## Java
 #### Java JVM
