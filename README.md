@@ -1,5 +1,9 @@
 # MineKnowContainer
 
+- 个人博客：[https://www.wuhuachuan.com/](https://www.wuhuachuan.com/)
+- 知乎：[https://www.zhihu.com/people/wuhuachuan](https://www.zhihu.com/people/wuhuachuan)
+- 微博：[点这里](http://weibo.com/p/1005051796766555/home?from=page_100505&mod=TAB&is_all=1#place)
+
 以上文件夹说明（在慢慢更新中...）:
 
 - Stack 文件夹： 个人对栈的一个实现。
