@@ -1,12 +1,6 @@
-# MineKnowContainer
+个人知识小仓库，方便以后查阅。（如有错误，麻烦请指出，谢谢）
 
-- 个人博客：[https://www.wuhuachuan.com/](https://www.wuhuachuan.com/)
-- 知乎：[https://www.zhihu.com/people/wuhuachuan](https://www.zhihu.com/people/wuhuachuan)
-- 微博：[点这里](http://weibo.com/p/1005051796766555/home?from=page_100505&mod=TAB&is_all=1#place)
-
-以上文件夹说明（在慢慢更新中...）:
-
-- Stack 文件夹： 个人对栈的一个实现。
+Ps：以前什么都想看看，都是什么也弄不深，后悔ing。不过写了就懒得删了......
 
 ## Java
 #### Java JVM
@@ -126,8 +120,8 @@
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
 
-## 其他
-如果您觉得对您有用，so.... 嘿嘿嘿 (*^__^*)
+# 最后
 
-![image](http://7xrzlm.com1.z0.glb.clouddn.com/weixin.png?imageView/2/w/200/h/200)  && 
-![image](http://7xrzlm.com1.z0.glb.clouddn.com/zhifubao.jpg?imageView/2/w/200/h/200)
+- 个人博客：[https://www.wuhuachuan.com/](https://www.wuhuachuan.com/)
+- 知乎：[https://www.zhihu.com/people/wuhuachuan](https://www.zhihu.com/people/wuhuachuan)
+- 微博：[点这里](http://weibo.com/p/1005051796766555/home?from=page_100505&mod=TAB&is_all=1#place)
