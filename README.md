@@ -1,6 +1,10 @@
 个人知识小仓库，方便以后查阅。（如有错误，麻烦请指出，谢谢）
 
-Ps：以前什么都想看看，都是什么也弄不深，后悔ing。不过写了就懒得删了......
+Ps：不再新增了，以后自己总结的一些知识点会写在个人博客上
+
+- 个人博客：[https://www.wuhuachuan.com/](https://www.wuhuachuan.com/)
+- 知乎：[https://www.zhihu.com/people/wuhuachuan](https://www.zhihu.com/people/wuhuachuan)
+- 微博：[点这里](http://weibo.com/p/1005051796766555/home?from=page_100505&mod=TAB&is_all=1#place)
 
 ## Java
 #### Java JVM
@@ -119,9 +123,3 @@ Ps：以前什么都想看看，都是什么也弄不深，后悔ing。不过写
 ## 工具
 - [iTerm 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/1) 
 - [vim 常用命令](https://github.com/pzxwhc/MineKnowContainer/issues/13) 
-
-# 最后
-
-- 个人博客：[https://www.wuhuachuan.com/](https://www.wuhuachuan.com/)
-- 知乎：[https://www.zhihu.com/people/wuhuachuan](https://www.zhihu.com/people/wuhuachuan)
-- 微博：[点这里](http://weibo.com/p/1005051796766555/home?from=page_100505&mod=TAB&is_all=1#place)
