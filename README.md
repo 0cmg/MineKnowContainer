@@ -9,7 +9,7 @@ Ps：不再新增了，以后自己总结的一些知识点会写在个人博客
 ## Java
 #### Java JVM
 - [Java JVM：总结](https://github.com/pzxwhc/MineKnowContainer/issues/63)
-- [Java JVM：内存结构和相关参数含义](https://github.com/pzxwhc/MineKnowContainer/issues/24)
+- [Java JVM：内存结构与参数设置](https://github.com/pzxwhc/MineKnowContainer/issues/24)
 - [Java JVM：对象是如何创建以及定位](https://github.com/pzxwhc/MineKnowContainer/issues/62)
 - [Java JVM：垃圾回收（GC 在什么时候，对什么东西，做了什么事情）](https://github.com/pzxwhc/MineKnowContainer/issues/26)
 - [Java JVM：垃圾收集器（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/61)
