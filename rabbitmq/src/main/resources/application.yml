@@ -1,7 +1,0 @@
-#spring:
-#    autoconfigure:
-#        excludes: HibernateJpaAutoConfiguration
-
-
-
-
