@@ -1,5 +1,7 @@
 package com.rabbitmq.test.withspring;
 
+import com.rabbitmq.test.entity1.StudentInReceive;
+import com.rabbitmq.test.entity1.Teacher;
 import org.springframework.amqp.core.ExchangeTypes;
 import org.springframework.amqp.rabbit.annotation.*;
 import org.springframework.stereotype.Component;
@@ -17,7 +19,12 @@ import org.springframework.stereotype.Component;
 @Component
 public class Receiver {
     @RabbitHandler
-    public void receiveMessage(Student student) {
+    public void receiveMessage(StudentInReceive student) {
         System.out.println("Received <" + student + ">");
+    }
+
+    @RabbitHandler
+    public void receiveMessage(Teacher teacher) {
+        System.out.println("Received <" + teacher + ">");
     }
 }

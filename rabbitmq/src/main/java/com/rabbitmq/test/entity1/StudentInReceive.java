@@ -1,10 +1,8 @@
-package com.rabbitmq.test.withspring;
+package com.rabbitmq.test.entity1;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
-
-import java.io.Serializable;
 
 /**
  * Created by wuhuachuan on 17/1/12.
@@ -13,13 +11,11 @@ import java.io.Serializable;
 @Data
 @ToString
 @NoArgsConstructor
-public class Student implements Serializable {
-
-    private static final long serialVersionUID = 1L;
+public class StudentInReceive {
 
     private String name;
 
-    public Student(final String name){
+    public StudentInReceive(final String name){
         this.name = name;
     }
 }
