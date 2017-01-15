@@ -2,7 +2,7 @@
 
 该 repository 是个人博客内容的一个子集，个人博客上包括了一些 读书笔记，工作总结 等内容。欢迎关注与技术探讨
 
-- 个人博客：[https://www.wuhuachuan.com/](https://www.wuhuachuan.com/)
+- 个人博客：[http://www.wuhuachuan.com/](http://www.wuhuachuan.com/)
 - 知乎：[https://www.zhihu.com/people/wuhuachuan](https://www.zhihu.com/people/wuhuachuan)
 - 微博：[点这里](http://weibo.com/p/1005051796766555/home?from=page_100505&mod=TAB&is_all=1#place)
 
