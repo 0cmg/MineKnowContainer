@@ -1,6 +1,6 @@
-个人知识小仓库，方便以后查阅。（如有错误，麻烦请指出，谢谢）
+该 repository 不再新增内容。（后续会写在自己的个人博客上）
 
-Ps：不再新增了，以后自己总结的一些知识点会写在个人博客上
+该 repository 是个人博客内容的一个子集，个人博客上包括了一些 读书笔记，工作总结 等内容。欢迎关注与技术探讨
 
 - 个人博客：[https://www.wuhuachuan.com/](https://www.wuhuachuan.com/)
 - 知乎：[https://www.zhihu.com/people/wuhuachuan](https://www.zhihu.com/people/wuhuachuan)
