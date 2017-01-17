@@ -1,10 +1,7 @@
-该 repository 不再新增内容。（后续会写在自己的个人博客上）
 
-该 repository 是个人博客内容的一个子集，个人博客上包括了一些 读书笔记，工作总结 等内容。欢迎关注与技术探讨
+后续个人的一些技术总结文章会写在自己的个人博客上：欢迎关注：[http://www.wuhuachuan.com/](http://www.wuhuachuan.com/)
 
-- 个人博客：[http://www.wuhuachuan.com/](http://www.wuhuachuan.com/)
-- 知乎：[https://www.zhihu.com/people/wuhuachuan](https://www.zhihu.com/people/wuhuachuan)
-- 微博：[点这里](http://weibo.com/p/1005051796766555/home?from=page_100505&mod=TAB&is_all=1#place)
+Ps：技术探讨欢迎提 issue 或者 email。
 
 ## Java
 #### Java JVM
@@ -44,10 +41,11 @@
 - [Java 其他：异常体系结构与 try-catch-finally](https://github.com/pzxwhc/MineKnowContainer/issues/56)
 
 ## 设计模式
-- [设计模式 -- Builder模式（多个构造器参数时可显著改善可读性）](https://github.com/pzxwhc/MineKnowContainer/issues/2)
-- [设计模式 -- 装饰器模式（为对象动态的添加功能）](https://github.com/pzxwhc/MineKnowContainer/issues/3)
 - [设计模式 -- 策略模式（对象的某个行为，在不同的场景中，有不同的实现算法）](https://github.com/pzxwhc/MineKnowContainer/issues/4)
 - [设计模式 -- 观察者模式（有利于代码解耦）](https://github.com/pzxwhc/MineKnowContainer/issues/5)
+- [设计模式 -- Builder模式（多个构造器参数时可显著改善可读性）](https://github.com/pzxwhc/MineKnowContainer/issues/2)
+- [设计模式 -- 装饰器模式（为对象动态的添加功能）](https://github.com/pzxwhc/MineKnowContainer/issues/3)
+- [设计模式 -- spring aop 的代理模式(Proxy 以及 CGLib)](https://github.com/pzxwhc/MineKnowContainer/issues/85)
 - [设计模式 -- 工厂模式（简单工厂模式，工厂方法模式，抽象工厂模式）](https://github.com/pzxwhc/MineKnowContainer/issues/73)
 - [设计模式 -- 单例模式（饿汉，懒汉模式与多线程下的使用）](https://github.com/pzxwhc/MineKnowContainer/issues/74)
 
