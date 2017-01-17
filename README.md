@@ -41,7 +41,7 @@ Ps：技术探讨欢迎提 issue 或者 email。
 - [Java 其他：异常体系结构与 try-catch-finally](https://github.com/pzxwhc/MineKnowContainer/issues/56)
 
 ## 设计模式
-- [设计模式 -- 策略模式（对象的某个行为，在不同的场景中，有不同的实现算法）](https://github.com/pzxwhc/MineKnowContainer/issues/4)
+- [设计模式 -- 关于策略模式和自己使用的一些思考（2017.1.17更新）](https://github.com/pzxwhc/MineKnowContainer/issues/4)
 - [设计模式 -- 观察者模式（有利于代码解耦）](https://github.com/pzxwhc/MineKnowContainer/issues/5)
 - [设计模式 -- Builder模式（多个构造器参数时可显著改善可读性）](https://github.com/pzxwhc/MineKnowContainer/issues/2)
 - [设计模式 -- 装饰器模式（为对象动态的添加功能）](https://github.com/pzxwhc/MineKnowContainer/issues/3)
