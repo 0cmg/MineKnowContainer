@@ -26,11 +26,12 @@ Ps：技术探讨欢迎提 issue 或者 email。
 - [Java 多线程：线程池实现原理](https://github.com/pzxwhc/MineKnowContainer/issues/9)
 
 ####  Java集合
+
 - [Java 集合总结（Collection系列与Map系列）](https://github.com/pzxwhc/MineKnowContainer/issues/75)
 - [Java 集合：Collection，List，ArrayList，Vector，LinkedList（实现方式，对比）](https://github.com/pzxwhc/MineKnowContainer/issues/18)
-- [Java 集合：HashMap（put方法的实现 与 哈希冲突）](https://github.com/pzxwhc/MineKnowContainer/issues/19)
+- [Java 集合：HashMap（put方法的实现与哈希冲突）](https://github.com/pzxwhc/MineKnowContainer/issues/19)
 - [Java 集合：LinkedHashMap工作原理及实现](https://github.com/pzxwhc/MineKnowContainer/issues/76)
-- [Java 集合：TreeMap 的使用（不包括原理）](https://github.com/pzxwhc/MineKnowContainer/issues/82)
+- [Java 集合：TreeMap 的使用（不包括原理，仅仅是简单的使用 demo）](https://github.com/pzxwhc/MineKnowContainer/issues/82)
 - [Java 集合：HashSet ，TreeSet 实现原理](https://github.com/pzxwhc/MineKnowContainer/issues/21)
 
 #### Java IO
@@ -41,13 +42,14 @@ Ps：技术探讨欢迎提 issue 或者 email。
 - [Java 其他：异常体系结构与 try-catch-finally](https://github.com/pzxwhc/MineKnowContainer/issues/56)
 
 ## 设计模式
+
 - [设计模式 -- 关于策略模式和自己使用的一些思考（2017.1.17更新）](https://github.com/pzxwhc/MineKnowContainer/issues/4)
 - [设计模式 -- 观察者模式（有利于代码解耦）](https://github.com/pzxwhc/MineKnowContainer/issues/5)
 - [设计模式 -- Builder模式（多个构造器参数时可显著改善可读性）](https://github.com/pzxwhc/MineKnowContainer/issues/2)
-- [设计模式 -- 装饰器模式（为对象动态的添加功能）](https://github.com/pzxwhc/MineKnowContainer/issues/3)
-- [设计模式 -- spring aop 的代理模式(Proxy 以及 CGLib)](https://github.com/pzxwhc/MineKnowContainer/issues/85)
 - [设计模式 -- 工厂模式（简单工厂模式，工厂方法模式，抽象工厂模式）](https://github.com/pzxwhc/MineKnowContainer/issues/73)
+- [设计模式 -- 装饰器模式（为对象动态的添加功能）](https://github.com/pzxwhc/MineKnowContainer/issues/3)
 - [设计模式 -- 单例模式（饿汉，懒汉模式与多线程下的使用）](https://github.com/pzxwhc/MineKnowContainer/issues/74)
+- [设计模式 -- spring aop 的代理模式(Proxy 以及 CGLib)](https://github.com/pzxwhc/MineKnowContainer/issues/85)
 
 ## 排序算法
 - [排序算法：选择排序](https://github.com/pzxwhc/MineKnowContainer/issues/43)
