@@ -37,6 +37,8 @@ Ps：技术探讨欢迎提 issue 或者 email。
 - [Java 集合：LinkedHashMap工作原理及实现](https://github.com/pzxwhc/MineKnowContainer/issues/76)
 - [Java 集合：TreeMap 的使用（不包括原理，仅仅是简单的使用 demo）](https://github.com/pzxwhc/MineKnowContainer/issues/82)
 - [Java 集合：HashSet ，TreeSet 实现原理](https://github.com/pzxwhc/MineKnowContainer/issues/21)
+- [个人博客：WeakHashMap 原理](http://wuhuachuan.com/visitor/article/4926e469-a6b3-47ec-ac50-d9b1d7e1008c)
+- [个人博客：Java并发容器：ConcurrentHashMap，CopyOnWriteArrayList简介](http://wuhuachuan.com/visitor/article/5365ec73-e0b8-4eb9-8290-c36587918409)
 
 #### Java IO
 - [Java IO：操作系统的IO处理过程以及5种网络IO模型](https://github.com/pzxwhc/MineKnowContainer/issues/22)
