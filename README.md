@@ -9,6 +9,7 @@ Ps：技术探讨欢迎提 issue 或者 email。
 
 - [Java JVM：总结](https://github.com/pzxwhc/MineKnowContainer/issues/63)
 - [Java JVM：垃圾收集算法 - 标记清除算法（伪代码实现与深入分析）](https://github.com/pzxwhc/MineKnowContainer/issues/86)
+- [Java JVM：垃圾收集算法 - 标记整理算法（伪代码实现与深入分析）](https://github.com/pzxwhc/MineKnowContainer/issues/87)
 - [Java JVM：内存结构与参数设置](https://github.com/pzxwhc/MineKnowContainer/issues/24)
 - [Java JVM：内存结构与参数设置](https://github.com/pzxwhc/MineKnowContainer/issues/24)
 - [Java JVM：对象是如何创建以及定位](https://github.com/pzxwhc/MineKnowContainer/issues/62)
