@@ -12,10 +12,11 @@ Ps：技术探讨欢迎提 issue 或者 email。
 - [Java JVM：垃圾收集算法 - 标记整理算法（伪代码实现与深入分析）](https://github.com/pzxwhc/MineKnowContainer/issues/87)
 - [Java JVM：垃圾收集算法 - 复制算法（伪代码实现与深入分析）](https://github.com/pzxwhc/MineKnowContainer/issues/88)
 - [Java JVM：CMS 垃圾收集器 - 工作原理，浮动垃圾，三色标记法等](https://github.com/pzxwhc/MineKnowContainer/issues/89)
+- [Java JVM：G1 垃圾收集器概述](https://github.com/pzxwhc/MineKnowContainer/issues/90)
+- [Java JVM：垃圾收集器（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/61)
 - [Java JVM：内存结构与参数设置](https://github.com/pzxwhc/MineKnowContainer/issues/24)
 - [Java JVM：对象是如何创建以及定位](https://github.com/pzxwhc/MineKnowContainer/issues/62)
 - [Java JVM：垃圾回收（GC 在什么时候，对什么东西，做了什么事情）](https://github.com/pzxwhc/MineKnowContainer/issues/26)
-- [Java JVM：垃圾收集器（转载）](https://github.com/pzxwhc/MineKnowContainer/issues/61)
 - [Java JVM：内存溢出（栈溢出，堆溢出，持久代溢出以及 unable to create native thread）](https://github.com/pzxwhc/MineKnowContainer/issues/25)
 - [Java JVM：编译加载机制与自定义类加载器](https://github.com/pzxwhc/MineKnowContainer/issues/27)
 
