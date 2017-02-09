@@ -33,7 +33,7 @@ Ps：技术探讨欢迎提 issue 或者 email。
 - [Java 多线程：volatile 关键字](https://github.com/pzxwhc/MineKnowContainer/issues/11)
 - [Java 多线程：Threadlocal 类](https://github.com/pzxwhc/MineKnowContainer/issues/12)
 - [Java 多线程：InheritableThreadLocal 实现原理](https://github.com/pzxwhc/MineKnowContainer/issues/20)
-- [Java 多线程：CAS 与 AtomicInteger（乐观锁）](https://github.com/pzxwhc/MineKnowContainer/issues/17)
+- [Java 多线程：CAS 与 AtomicInteger（乐观锁）(转载)](https://github.com/pzxwhc/MineKnowContainer/issues/17)
 - [Java 多线程：线程池实现原理](https://github.com/pzxwhc/MineKnowContainer/issues/9)
 
 ####  Java集合
